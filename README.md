@@ -79,12 +79,3 @@ Feb 2010 - July 2016
 - Using Latent Class Analysis to Develop Typologies of Online Sellers of Potentially Illicit Animal Leather Products. (Abstract to appear at European and American Societies of Criminology, 2025)
 - The Construction Material Supplier Relationship Management. (Qualitas Electronic Journal, v.19, n.1. Jan 1, 2018)
 
-
-
-
-Contact
-Email: julesbarbosa1@gmail.com
-
-LinkedIn: linkedin.com/in/juliana-silva-barbosa
-
-Phone: (+1) 347-283-2412
