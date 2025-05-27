@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Juliana Barbosa 👋
 
-I'm a <span style="color:green">Research Scientist/Machine Learning Engineer</span> at NYU - Tandon School of engineering,
-more specifically at [VIDA](https://vida.engineering.nyu.edu/) working with prof. Juliana Freire on the [DISN](https://vida-nyu.github.io/DISN-Wildlife/) project.
+I'm a <span style="color:green">Research Scientist/Machine Learning Engineer</span> at NYU - New York University,
+more specifically at [VIDA](https://vida.engineering.nyu.edu/), working with Prof. Juliana Freire on the [DISN](https://vida-nyu.github.io/DISN-Wildlife/) project.
 
 
 - 🧠 I’m currently exploring <span style="color:#FF1493"> Human-in-the-Loop for LLM-Driven ML Systems</span>
-- 🎓 I’m looking for a PhD position in the areas of Data Management, AI, NLP, Machine Learning
+- 🎓 I’m looking for a PhD position in the areas of Data Management, AI, NLP, and Machine Learning
 - 🌐 Languages I Speak:
   - 🇺🇸 English
   - 🇧🇷 Portuguese
@@ -35,25 +35,25 @@ more specifically at [VIDA](https://vida.engineering.nyu.edu/) working with prof
 New York University (NYU) | New York, USA
 Feb 2023 - Present
 
-Led research in the Disrupting Operations of Illicit Supply Networks (D-ISN) project, collaborating with interdisciplinary research groups.
-Developed computational infrastructure, data collection pipelines, and web crawlers for comprehensive data analysis and tracking online advertisements.
-Deployed storage systems (Minio, Elasticsearch) in production using Kubernetes.
-Created a web-based data annotation tool for domain experts to generate training data for wildlife trading analysis.
-Fine-tuned deep learning models (BERT) and LLMs (Llama 2) using PyTorch and Hugging Face Transformers to improve classification performance.
-Developed a novel active learning sampling approach using LLM-generated pseudo-labels for unbalanced datasets, minimizing labeling costs.
-Trained a multi-modal model to achieve 95% accuracy in classifying illegal wildlife advertisements.
+- Led research in the Disrupting Operations of Illicit Supply Networks (D-ISN) project, collaborating with interdisciplinary research groups.
+- Developed computational infrastructure, data collection pipelines, and web crawlers for comprehensive data analysis and tracking online advertisements.
+- Deployed storage systems (Minio, Elasticsearch) in production using Kubernetes.
+- Created a web-based data annotation tool for domain experts to generate training data for wildlife trading analysis.
+- Fine-tuned deep learning models (BERT) and LLMs (Llama 2) using PyTorch and Hugging Face Transformers to improve classification performance.
+- Developed a novel active learning sampling approach using LLM-generated pseudo-labels for unbalanced datasets, minimizing labeling costs.
+- Trained a multi-modal model to achieve 95% accuracy in classifying illegal wildlife advertisements.
 _
 
 ### Data Scientist
 Accern | New York, USA
 Sept 2020 - Aug 2022
 
-Conducted deep learning (NLP) modeling and performance evaluation of deployed models (e.g., sentiment analysis) to monitor accuracy.
-Fine-tuned transformer-based NER models to enhance the extraction of company names from financial articles, improving data quality for clients.
-Developed new features for the company's low-code machine learning platform and APIs, focusing on data cleaning, manipulation, model training, and deployment scalability.
-Researched temporal evolution of topics in textual data using machine learning and NLP techniques.
-Applied clustering, topic modeling, text embedding, and summarization to analyze articles from various sources.
-Utilized technologies including Python, Typescript, Pytorch, Transformers, Elasticsearch, and Kubernetes.
+- Conducted deep learning (NLP) modeling and performance evaluation of deployed models (e.g., sentiment analysis) to monitor accuracy.
+- Fine-tuned transformer-based NER models to enhance the extraction of company names from financial articles, improving data quality for clients.
+- Developed new features for the company's low-code machine learning platform and APIs, focusing on data cleaning, manipulation, model training, and deployment scalability.
+- Researched temporal evolution of topics in textual data using machine learning and NLP techniques.
+- Applied clustering, topic modeling, text embedding, and summarization to analyze articles from various sources.
+- Utilized technologies including Python, Typescript, Pytorch, Transformers, Elasticsearch, and Kubernetes.
 
 # Education
 ### Master of Science in Industrial Engineering
