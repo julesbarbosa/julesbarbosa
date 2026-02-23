@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Juliana Barbosa 👋
 
-I'm a <span style="color:green">Research Scientist/Machine Learning Engineer</span> at NYU - New York University,
-more specifically at [VIDA](https://vida.engineering.nyu.edu/), working with Prof. Juliana Freire on the [DISN](https://vida-nyu.github.io/DISN-Wildlife/) project.
+I'm a <span style="color:green">PhD candidate at TU Delft</span>  working with Prof. Jie Yang. 
 
-
-- 🧠 I’m currently exploring <span style="color:#FF1493"> Human-in-the-Loop for LLM-Driven ML Systems</span>
-- 🎓 I’m looking for a PhD position in the areas of Data Management, AI, NLP, and Machine Learning
+- 🧠 I’m currently exploring <span style="color:#FF1493"> Simulation of mental health treatments with AI assistants</span>
 - 🌐 Languages I Speak:
   - 🇺🇸 English
   - 🇧🇷 Portuguese
